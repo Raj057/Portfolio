@@ -11,7 +11,7 @@ body {
 }
 
 header {
-  background-color: #25b79f;
+  background-color: #FF8C00;
   height: 100vh;
 }
 
@@ -108,7 +108,7 @@ header {
 }
 
 .about-me .about-heading {
-  color: #25b79f;
+  color: #7FFF00;
   font-size: 2rem;
   font-weight: 600;
   text-align: center;
